@@ -1,0 +1,20 @@
+title: CalculatorQueen 计算笔记
+description: 计算器方法、公式复核、适用边界与 325 个公开工具的中文目录。
+lang: zh-CN
+url: https://devdadapps.github.io
+baseurl: /calculatorqueen-notes
+theme: jekyll-theme-minimal
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  input: GFM
+
+relative_links:
+  enabled: true
+  collections: true
+
+readme_index:
+  enabled: true
+  remove_originals: false
+  with_frontmatter: false
