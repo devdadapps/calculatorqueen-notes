@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="title description">
+  <title id="title">mW、W、MW 与 dBm 的功率换算关系</title>
+  <desc id="description">上半部分展示毫瓦与瓦特之间乘除一千的线性关系，以及小写 mW 与大写 MW 相差十亿倍；下半部分说明 dBm 必须通过以一毫瓦为参考的对数公式转换。</desc>
+  <rect width="1200" height="620" rx="28" fill="#0f172a"/>
+  <text x="60" y="70" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="34" font-weight="700">功率单位地图：先认单位，再动小数点</text>
+  <text x="60" y="108" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="20">线性 SI 前缀与对数 dBm 是两条不同的计算路径</text>
+
+  <rect x="60" y="150" width="280" height="150" rx="20" fill="#0f766e"/>
+  <text x="200" y="210" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="48" font-weight="700">mW</text>
+  <text x="200" y="252" text-anchor="middle" fill="#ccfbf1" font-family="system-ui, sans-serif" font-size="24">毫瓦 · 10⁻³ W</text>
+
+  <path d="M360 205 H555" stroke="#5eead4" stroke-width="8" stroke-linecap="round"/>
+  <path d="M535 188 L560 205 L535 222" fill="none" stroke="#5eead4" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="458" y="188" text-anchor="middle" fill="#f0fdfa" font-family="system-ui, sans-serif" font-size="22" font-weight="700">÷ 1,000</text>
+  <path d="M555 265 H360" stroke="#93c5fd" stroke-width="8" stroke-linecap="round"/>
+  <path d="M380 248 L355 265 L380 282" fill="none" stroke="#93c5fd" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="458" y="294" text-anchor="middle" fill="#dbeafe" font-family="system-ui, sans-serif" font-size="22" font-weight="700">× 1,000</text>
+
+  <rect x="575" y="150" width="250" height="150" rx="20" fill="#1d4ed8"/>
+  <text x="700" y="210" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="48" font-weight="700">W</text>
+  <text x="700" y="252" text-anchor="middle" fill="#dbeafe" font-family="system-ui, sans-serif" font-size="24">瓦特 · 10⁰ W</text>
+
+  <rect x="855" y="150" width="285" height="150" rx="20" fill="#7c2d12"/>
+  <text x="998" y="199" text-anchor="middle" fill="#ffedd5" font-family="system-ui, sans-serif" font-size="24" font-weight="700">大小写不是装饰</text>
+  <text x="998" y="242" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="34" font-weight="700">mW ≠ MW</text>
+  <text x="998" y="276" text-anchor="middle" fill="#fed7aa" font-family="system-ui, sans-serif" font-size="20">1 MW = 10⁹ mW</text>
+
+  <rect x="60" y="345" width="1080" height="210" rx="22" fill="#312e81"/>
+  <text x="95" y="400" fill="#eef2ff" font-family="system-ui, sans-serif" font-size="30" font-weight="700">dBm：走对数换算，不走“乘除一千”</text>
+  <text x="95" y="450" fill="#c7d2fe" font-family="system-ui, sans-serif" font-size="25">P(dBm) = 10 log₁₀(P(mW))</text>
+  <text x="95" y="493" fill="#c7d2fe" font-family="system-ui, sans-serif" font-size="25">P(mW) = 10^(P(dBm) / 10)</text>
+  <line x1="610" y1="385" x2="610" y2="520" stroke="#818cf8" stroke-width="2"/>
+  <text x="655" y="425" fill="#ffffff" font-family="system-ui, sans-serif" font-size="27" font-weight="700">20 dBm = 100 mW = 0.1 W</text>
+  <text x="655" y="475" fill="#ffffff" font-family="system-ui, sans-serif" font-size="27" font-weight="700">30 dBm = 1,000 mW = 1 W</text>
+  <text x="655" y="515" fill="#c7d2fe" font-family="system-ui, sans-serif" font-size="20">dBm 每增加 10，线性功率扩大 10 倍</text>
+  <text x="60" y="592" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="18">Original diagram for CalculatorQueen Technical Notes · 2026-08-16</text>
+</svg>
