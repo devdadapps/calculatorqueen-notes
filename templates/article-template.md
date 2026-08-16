@@ -1,6 +1,6 @@
 ---
 title: "清楚、具体的文章标题"
-date: YYYY-MM-DD
+date: null # 发布时替换为 YYYY-MM-DD
 description: "用一句话说明计算问题与适用边界。"
 category: "仓库分类 slug"
 language: "zh-CN"
