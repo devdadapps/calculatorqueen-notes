@@ -14,7 +14,7 @@ permalink: /
 - [325 个公开工具目录](catalog/)：按 8 个大类、43 个小类逐层查找，并提供 A–Z 与机器可读数据。
 - [技术文章索引](articles/)：按日期和主题整理已经完成审校的计算笔记。
 - [文章分类导航](categories/)：了解各类问题的数据纪律、适用边界与选文标准。
-- [项目说明与编辑规则](README.md)：查看目录架构、第一方归属、AI 辅助披露和复核流程。
+- [项目说明与编辑规则](https://github.com/devdadapps/calculatorqueen-notes#readme)：查看目录架构、第一方归属、AI 辅助披露和复核流程。
 
 ## 当前发布原则
 
