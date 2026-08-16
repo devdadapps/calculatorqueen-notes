@@ -10,10 +10,13 @@
 
 ## 目录导航
 
+- [325 个公开工具总目录](catalog/README.md)：本仓库的首要导航入口，按“仓库总览 → 8 个大类 → 43 个小类叶子页 → 具体工具”四级组织；另提供 [A–Z 索引](catalog/all-calculators-a-z.md)与[机器可读数据](catalog/data/calculators.json)用于核验。
 - [文章索引](articles/README.md)：只列已经发布的文章，按分类与日期整理。
 - [分类说明](categories/README.md)：解释每类文章的数据纪律、适用边界和收录标准。
 - [文章模板](templates/article-template.md)：统一记录归属、来源、验证、例题和限制。
 - [图片规范](assets/README.md)：约束图片来源、可访问性、隐私和文件组织。
+
+工具目录与文章分类承担不同任务：`catalog/` 完整呈现当前公开工具，`categories/` 约束长文怎样选题和核验。目录中的 325 个链接属于一次信息架构发布，不计作 325 篇日更文章或 325 次独立推广动作。
 
 ## 内容标准
 

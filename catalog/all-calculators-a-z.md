@@ -1,0 +1,331 @@
+# A–Z 计算器索引
+
+这里列出 325 个工具名称，并指向仓库内对应的小类页。精确 CalculatorQueen 深页链接只在叶子页出现一次。
+
+- [1099 Tax Calculator — Tax Bill or Refund Estimate](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [2026 Army WHtR Calculator: Official .550 Rule](health-medical/weight-body-composition-and-growth.md) — 健康医学 › 体重、体脂与生长
+- [2026 BAH Calculator by ZIP Code & Pay Grade](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [2026 Bonus Tax Calculator: Federal, State & FICA](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [2026 Capital Gains Tax Calculator: Federal LTCG & NIIT](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [2026 Military Pay Calculator: Basic Pay, BAH & BAS](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [2026 RMD Calculator: IRS Table II or III](finance-tax/retirement-insurance-and-protection.md) — 金融财税 › 退休、保险与保障
+- [2026 Social Security Claiming Calculator from PIA](finance-tax/retirement-insurance-and-protection.md) — 金融财税 › 退休、保险与保障
+- [2026 VA Disability Calculator: Combined Rating & Pay](finance-tax/retirement-insurance-and-protection.md) — 金融财税 › 退休、保险与保障
+- [2D & 3D Coordinate Distance Calculator — Euclidean Formula](math-education/geometry-area-and-volume.md) — 数学教育 › 几何、面积与体积
+- [401(a) Calculator — 2025/2026 Contribution Limits](finance-tax/retirement-insurance-and-protection.md) — 金融财税 › 退休、保险与保障
+- [401(k) Calculator — Balance, Withdrawal & Match](finance-tax/retirement-insurance-and-protection.md) — 金融财税 › 退休、保险与保障
+- [529 College Savings Calculator — Cost & Monthly Goal](finance-tax/savings-and-interest.md) — 金融财税 › 储蓄与利息
+- [A1C Calculator](health-medical/clinical-labs-and-organ-function.md) — 健康医学 › 临床检验与器官功能
+- [Absolute Count Calculator: WBC Differential](health-medical/clinical-labs-and-organ-function.md) — 健康医学 › 临床检验与器官功能
+- [Absolute Neutrophil Count Calculator (ANC)](health-medical/clinical-labs-and-organ-function.md) — 健康医学 › 临床检验与器官功能
+- [ACT Score Calculator for Enhanced Scores](math-education/courses-exams-and-grade-management.md) — 数学教育 › 课程、考试与成绩管理
+- [Age Calculator](date-time/dates-and-time.md) — 日期时间 › 日期与时间计算
+- [Air Force PT Calculator: Current 2026 PFRA Score](health-medical/training-and-cardio.md) — 健康医学 › 运动训练与心肺
+- [Alcohol by Volume (ABV) Calculator](science-technology/chemistry-solutions-and-concentration.md) — 科学技术 › 化学、溶液与浓度
+- [Algebra Calculator — Solve, Simplify & Show Steps](math-education/algebra-equations-and-matrices.md) — 数学教育 › 代数、方程与矩阵
+- [Amortization Calculator — Payment Schedule & Interest](finance-tax/loans-and-credit.md) — 金融财税 › 贷款与信用
+- [Annual Percentage Yield Calculator](finance-tax/savings-and-interest.md) — 金融财税 › 储蓄与利息
+- [AP Biology Score Calculator: Weighted Composite](math-education/courses-exams-and-grade-management.md) — 数学教育 › 课程、考试与成绩管理
+- [AP Calculus AB Score Calculator: 2027 Raw Score](math-education/courses-exams-and-grade-management.md) — 数学教育 › 课程、考试与成绩管理
+- [AP Chemistry Score Calculator: Raw MCQ & FRQ](math-education/courses-exams-and-grade-management.md) — 数学教育 › 课程、考试与成绩管理
+- [AP Lang Score Calculator: Raw & Model](math-education/courses-exams-and-grade-management.md) — 数学教育 › 课程、考试与成绩管理
+- [AP World History Score Calculator: 2027 Composite](math-education/courses-exams-and-grade-management.md) — 数学教育 › 课程、考试与成绩管理
+- [APA Reference Generator: Web, Journal & Book](math-education/courses-exams-and-grade-management.md) — 数学教育 › 课程、考试与成绩管理
+- [APR Calculator: General Loans & Mortgages](finance-tax/loans-and-credit.md) — 金融财税 › 贷款与信用
+- [APUSH Score Calculator: Raw Points & 1–5 Estimate](math-education/courses-exams-and-grade-management.md) — 数学教育 › 课程、考试与成绩管理
+- [Area Calculator — 11 Shapes & Mixed Units](math-education/arithmetic-fractions-and-numbers.md) — 数学教育 › 基础算术、分数与数值
+- [Arizona Paycheck Calculator: 2026 A-4 Tax & Net Pay](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [ASCVD Risk Calculator: 2013 Pooled Cohort Equation](health-medical/cardiovascular-risk-scores.md) — 健康医学 › 心血管与风险评分
+- [Aspect Ratio Calculator — Resize & Scale Resolution](science-technology/computing-networks-and-device-technology.md) — 科学技术 › 计算机、网络与设备技术
+- [Asphalt Calculator](construction-home/aggregates-earthwork-and-landscaping.md) — 建筑家装 › 砂石、土方与景观
+- [ASQ Calculator: Age, Interval & Adjusted Score](health-medical/weight-body-composition-and-growth.md) — 健康医学 › 体重、体脂与生长
+- [Auto Loan & Vehicle Affordability Calculator](finance-tax/loans-and-credit.md) — 金融财税 › 贷款与信用
+- [BAC Calculator](health-medical/lifestyle-and-exposure.md) — 健康医学 › 生活习惯与暴露检测
+- [Basic Calculator — Decimal Arithmetic & Integer Steps](math-education/arithmetic-fractions-and-numbers.md) — 数学教育 › 基础算术、分数与数值
+- [Bitumen Calculator](construction-home/aggregates-earthwork-and-landscaping.md) — 建筑家装 › 砂石、土方与景观
+- [BMI Calculator](health-medical/weight-body-composition-and-growth.md) — 健康医学 › 体重、体脂与生长
+- [Board Feet Calculator](construction-home/structures-roofing-and-interior-finishes.md) — 建筑家装 › 结构、屋面与室内饰面
+- [Boat Loan Calculator](finance-tax/loans-and-credit.md) — 金融财税 › 贷款与信用
+- [Body Fat Calculator](health-medical/weight-body-composition-and-growth.md) — 健康医学 › 体重、体脂与生长
+- [Body Type Calculator — Transparent Apparel Proportions](health-medical/weight-body-composition-and-growth.md) — 健康医学 › 体重、体脂与生长
+- [Bra Size Calculator](health-medical/weight-body-composition-and-growth.md) — 健康医学 › 体重、体脂与生长
+- [BSA Calculator](health-medical/weight-body-composition-and-growth.md) — 健康医学 › 体重、体脂与生长
+- [Budget Calculator — Monthly & Annual Plan](finance-tax/budgeting-and-affordability.md) — 金融财税 › 预算与负担能力
+- [Business Day Calculator — Count & Add Workdays](date-time/workdays-hours-and-timecards.md) — 日期时间 › 工作日、工时与考勤
+- [Business Loan Calculator](finance-tax/loans-and-credit.md) — 金融财税 › 贷款与信用
+- [CAGR Calculator](finance-tax/investing-and-assets.md) — 金融财税 › 投资与资产
+- [Calculate Probability Calculator](math-education/statistics-probability-and-calculus.md) — 数学教育 › 统计、概率与微积分
+- [Calculator Infinity Trick: Test, Explain & Calculate](games-recreation/sports-betting-and-games.md) — 休闲娱乐 › 体育、博彩与趣味游戏
+- [Calculator With Tax: Add or Remove Sales Tax](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [California Paycheck Calculator: 2026 PIT, SDI & Federal](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [Calorie Calculator](health-medical/nutrition-calories-and-metabolism.md) — 健康医学 › 营养、热量与代谢
+- [Calorie Deficit Calculator](health-medical/nutrition-calories-and-metabolism.md) — 健康医学 › 营养、热量与代谢
+- [Calories Burned Calculator by Activity, MET & Time](health-medical/nutrition-calories-and-metabolism.md) — 健康医学 › 营养、热量与代谢
+- [Cap Rate Calculator](finance-tax/mortgages-and-real-estate.md) — 金融财税 › 房贷与房产
+- [Car Loan Price Calculator](finance-tax/loans-and-credit.md) — 金融财税 › 贷款与信用
+- [Cash-Out Refinance Calculator: Debt & Cost](finance-tax/mortgages-and-real-estate.md) — 金融财税 › 房贷与房产
+- [Cattle Gestation Calculator](health-medical/animal-health-and-growth.md) — 健康医学 › 动物健康与成长
+- [Celsius to Fahrenheit Calculator — °C to °F](science-technology/temperature-weather-and-speed.md) — 科学技术 › 温度、气象与速度
+- [Centimeters to Meters Calculator — cm to m](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [Centimeters to Millimeters Calculator (cm to mm)](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [CHA2DS2-VASc Calculator: Score & Stroke Risk](health-medical/cardiovascular-risk-scores.md) — 健康医学 › 心血管与风险评分
+- [Chess Rating Calculator — FIDE Standard Game Audit](games-recreation/sports-betting-and-games.md) — 休闲娱乐 › 体育、博彩与趣味游戏
+- [Child and Teen BMI Calculator | CDC Extended Percentile](health-medical/weight-body-composition-and-growth.md) — 健康医学 › 体重、体脂与生长
+- [Child Height and Weight Percentile Calculator | CDC LMS](health-medical/weight-body-composition-and-growth.md) — 健康医学 › 体重、体脂与生长
+- [Chinese Zodiac Calculator | HKO Lunar New Year Boundary](games-recreation/astrology-numerology-and-charts.md) — 休闲娱乐 › 占星、命理与星盘
+- [Cinder Block Calculator](construction-home/aggregates-earthwork-and-landscaping.md) — 建筑家装 › 砂石、土方与景观
+- [Circumference Calculator](math-education/geometry-area-and-volume.md) — 数学教育 › 几何、面积与体积
+- [City Distance Calculator](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [Closing Cost Calculator: Cash to Close Estimate](finance-tax/mortgages-and-real-estate.md) — 金融财税 › 房贷与房产
+- [Cloud Resource Cost Calculator](business-consumer/pricing-platforms-and-digital-costs.md) — 商业消费 › 定价、平台与数字成本
+- [Cloud Usage Cost Calculator](business-consumer/pricing-platforms-and-digital-costs.md) — 商业消费 › 定价、平台与数字成本
+- [Colorado Paycheck Calculator: 2026 Tax, FAMLI & Net Pay](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [Conception Calculator: Dates, Window & Due Date](health-medical/reproductive-health-pregnancy-and-cycles.md) — 健康医学 › 生殖健康、孕产与周期
+- [Concrete Calculator — Volume, Shapes & Mix Bags](construction-home/aggregates-earthwork-and-landscaping.md) — 建筑家装 › 砂石、土方与景观
+- [Conduit Fill Calculator: Mixed Cable Diameter Check](construction-home/area-volume-and-general-construction.md) — 建筑家装 › 建筑面积、体积与通用工程量
+- [Construction Skill Training Planner](games-recreation/building-survival-and-combat-games.md) — 休闲娱乐 › 建造、生存与战斗游戏
+- [Convert Calculator for Common Units](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [Corrected Calcium Calculator: Albumin Adjustment](health-medical/clinical-labs-and-organ-function.md) — 健康医学 › 临床检验与器官功能
+- [Cost of Living Calculator: Compare Two Budgets](finance-tax/budgeting-and-affordability.md) — 金融财税 › 预算与负担能力
+- [Counter Calculator: Free Online Tally Counter](math-education/arithmetic-fractions-and-numbers.md) — 数学教育 › 基础算术、分数与数值
+- [County Living Wage Estimate](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [CPM Calculator — Cost & Impressions](business-consumer/pricing-platforms-and-digital-costs.md) — 商业消费 › 定价、平台与数字成本
+- [Crafting Expected Value Calculator](games-recreation/building-survival-and-combat-games.md) — 休闲娱乐 › 建造、生存与战斗游戏
+- [CrCl Calculator: Original Cockcroft-Gault](health-medical/clinical-labs-and-organ-function.md) — 健康医学 › 临床检验与器官功能
+- [Credit Card Payoff Calculator](finance-tax/loans-and-credit.md) — 金融财税 › 贷款与信用
+- [Cubic Feet Calculator](construction-home/area-volume-and-general-construction.md) — 建筑家装 › 建筑面积、体积与通用工程量
+- [Cumulative GPA Calculator — Terms, Courses & Target Plan](math-education/courses-exams-and-grade-management.md) — 数学教育 › 课程、考试与成绩管理
+- [Cylinder Volume Calculator](math-education/geometry-area-and-volume.md) — 数学教育 › 几何、面积与体积
+- [Date Add Calculator](date-time/dates-and-time.md) — 日期时间 › 日期与时间计算
+- [Day Countdown Calculator: Exact Time Remaining](date-time/dates-and-time.md) — 日期时间 › 日期与时间计算
+- [Deck Calculator](construction-home/structures-roofing-and-interior-finishes.md) — 建筑家装 › 结构、屋面与室内饰面
+- [Derivative Calculator: 1st–3rd Derivative at a Point](math-education/statistics-probability-and-calculus.md) — 数学教育 › 统计、概率与微积分
+- [Dew Point Calculator](science-technology/temperature-weather-and-speed.md) — 科学技术 › 温度、气象与速度
+- [Dilution Calculator — C1V1 = C2V2 with Units](science-technology/chemistry-solutions-and-concentration.md) — 科学技术 › 化学、溶液与浓度
+- [Dinosaur Trade Value Calculator](games-recreation/virtual-pets-trading-and-items.md) — 休闲娱乐 › 养成、交易与虚拟物品
+- [Dirt Calculator](construction-home/aggregates-earthwork-and-landscaping.md) — 建筑家装 › 砂石、土方与景观
+- [Discount Calculator — Percent or Fixed Amount Off](business-consumer/discounts-tips-and-shopping-comparisons.md) — 商业消费 › 折扣、小费与消费比价
+- [Dividend Calculator — Income, Yield & Share Count](finance-tax/investing-and-assets.md) — 金融财税 › 投资与资产
+- [DKA Gap Calculator: Serum Anion Gap](health-medical/clinical-labs-and-organ-function.md) — 健康医学 › 临床检验与器官功能
+- [Dog Chocolate Toxicity Calculator | Confirmed mg/oz](health-medical/animal-health-and-growth.md) — 健康医学 › 动物健康与成长
+- [Dog Years Calculator](health-medical/animal-health-and-growth.md) — 健康医学 › 动物健康与成长
+- [Dosage Calculation Calculator: D/H × Q](health-medical/medication-dosage-and-infusion.md) — 健康医学 › 用药、剂量与输液
+- [Drywall Calculator](construction-home/structures-roofing-and-interior-finishes.md) — 建筑家装 › 结构、屋面与室内饰面
+- [Drywall Installation Cost Calculator](construction-home/structures-roofing-and-interior-finishes.md) — 建筑家装 › 结构、屋面与室内饰面
+- [Era Calculator](games-recreation/sports-betting-and-games.md) — 休闲娱乐 › 体育、博彩与趣味游戏
+- [Estimate Sums Calculator](math-education/arithmetic-fractions-and-numbers.md) — 数学教育 › 基础算术、分数与数值
+- [EtG Calculator: Standard Drink & Lab Record Audit](health-medical/lifestyle-and-exposure.md) — 健康医学 › 生活习惯与暴露检测
+- [Exponent Calculator — Powers, Exponents & Bases](math-education/algebra-equations-and-matrices.md) — 数学教育 › 代数、方程与矩阵
+- [Factor Calculator — Factors, Pairs & Prime Factorization](math-education/arithmetic-fractions-and-numbers.md) — 数学教育 › 基础算术、分数与数值
+- [Factory Production Line Calculator](games-recreation/building-survival-and-combat-games.md) — 休闲娱乐 › 建造、生存与战斗游戏
+- [Fahrenheit to Centigrade Calculator](science-technology/temperature-weather-and-speed.md) — 科学技术 › 温度、气象与速度
+- [Fantasy Football Trade Value Calculator](games-recreation/virtual-pets-trading-and-items.md) — 休闲娱乐 › 养成、交易与虚拟物品
+- [Federal Tax Calculator: Ordinary Income](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [Feet and Inches Calculator — Add, Subtract & Convert](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [Feet per Second Calculator — ft/s to mph](science-technology/temperature-weather-and-speed.md) — 科学技术 › 温度、气象与速度
+- [Feet to Meters Calculator — ft to m](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [FERS Retirement Calculator: 2026 Basic Annuity](finance-tax/retirement-insurance-and-protection.md) — 金融财税 › 退休、保险与保障
+- [FFMI Calculator](health-medical/weight-body-composition-and-growth.md) — 健康医学 › 体重、体脂与生长
+- [Final Exam Calculator — Grade Needed & Course Total](math-education/courses-exams-and-grade-management.md) — 数学教育 › 课程、考试与成绩管理
+- [Finance Calculator: Solve PV, FV, PMT, Rate or N](finance-tax/savings-and-interest.md) — 金融财税 › 储蓄与利息
+- [Finding Slope Calculator](math-education/algebra-equations-and-matrices.md) — 数学教育 › 代数、方程与矩阵
+- [Five-Letter Word Candidate Filter](games-recreation/sports-betting-and-games.md) — 休闲娱乐 › 体育、博彩与趣味游戏
+- [Fluid Ounces to mL Calculator — US & Imperial](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [Food Portion Calculator for Meal Planning](math-education/percentages-ratios-and-change.md) — 数学教育 › 百分比、比例与变化
+- [FPS Calculator — Frames, Time & Non-Drop Timecode](science-technology/computing-networks-and-device-technology.md) — 科学技术 › 计算机、网络与设备技术
+- [Fraction Calculator — Operations, Mixed Numbers & Conversions](math-education/arithmetic-fractions-and-numbers.md) — 数学教育 › 基础算术、分数与数值
+- [Free Natal Chart Calculator — Sun, Moon & Saturn Summary](games-recreation/astrology-numerology-and-charts.md) — 休闲娱乐 › 占星、命理与星盘
+- [Freight Class Calculator: 2025 NMFC](business-consumer/courier-postal-and-freight.md) — 商业消费 › 快递、邮政与货运
+- [Fruit Trade Value Calculator](games-recreation/building-survival-and-combat-games.md) — 休闲娱乐 › 建造、生存与战斗游戏
+- [Fuel Cost Calculator](science-technology/vehicles-and-mechanical-technology.md) — 科学技术 › 车辆与机械技术
+- [Future Value Calculator](finance-tax/savings-and-interest.md) — 金融财税 › 储蓄与利息
+- [Garden Item Value Calculator](games-recreation/virtual-pets-trading-and-items.md) — 休闲娱乐 › 养成、交易与虚拟物品
+- [Gear Ratio Calculator](science-technology/vehicles-and-mechanical-technology.md) — 科学技术 › 车辆与机械技术
+- [Gematria Calculator](games-recreation/astrology-numerology-and-charts.md) — 休闲娱乐 › 占星、命理与星盘
+- [Georgia Paycheck Calculator: Revised 2026 Tax & Net Pay](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [GFR Calculator: 2021 CKD-EPI Adult eGFR](health-medical/clinical-labs-and-organ-function.md) — 健康医学 › 临床检验与器官功能
+- [Golf Handicap Calculator — Course Handicap & WHS Index](games-recreation/sports-betting-and-games.md) — 休闲娱乐 › 体育、博彩与趣味游戏
+- [GPA Calculator — Course, Cumulative & Target GPA](math-education/courses-exams-and-grade-management.md) — 数学教育 › 课程、考试与成绩管理
+- [Grade Calculator — Weighted Grades & Final Goal](math-education/courses-exams-and-grade-management.md) — 数学教育 › 课程、考试与成绩管理
+- [Grams to Cups Converter — Ingredients & Reverse Conversion](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [Grams to Ounces Calculator — g to oz](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [Grams to Pounds Calculator — g to lb](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [Gravel Calculator — Cubic Yards, Tons & Cost](construction-home/aggregates-earthwork-and-landscaping.md) — 建筑家装 › 砂石、土方与景观
+- [Greatest Common Factor Calculator](math-education/arithmetic-fractions-and-numbers.md) — 数学教育 › 基础算术、分数与数值
+- [Hard Money Loan Calculator: Payments, Balloon & LTV](finance-tax/loans-and-credit.md) — 金融财税 › 贷款与信用
+- [Heart Rate Zone Calculator](health-medical/training-and-cardio.md) — 健康医学 › 运动训练与心肺
+- [Height Calculator](health-medical/weight-body-composition-and-growth.md) — 健康医学 › 体重、体脂与生长
+- [HELOC Calculator: Draw & Repayment Payments](finance-tax/mortgages-and-real-estate.md) — 金融财税 › 房贷与房产
+- [Home Loan Affordability Calculator with DTI](finance-tax/mortgages-and-real-estate.md) — 金融财税 › 房贷与房产
+- [Home Loan Payment Calculator](finance-tax/mortgages-and-real-estate.md) — 金融财税 › 房贷与房产
+- [Home Sale Calculator: Estimate Net Proceeds](finance-tax/mortgages-and-real-estate.md) — 金融财税 › 房贷与房产
+- [Horoscope Calculator — Find Your Tropical Sun Sign](games-recreation/astrology-numerology-and-charts.md) — 休闲娱乐 › 占星、命理与星盘
+- [Hours Calculator — Hours Between Times or Dates](date-time/dates-and-time.md) — 日期时间 › 日期与时间计算
+- [How Long Will My Money Last Calculator](finance-tax/savings-and-interest.md) — 金融财税 › 储蓄与利息
+- [Illinois Paycheck Calculator: 2026 State, Federal & FICA](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [Indiana Paycheck Calculator: 2026 State Tax & Net Pay](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [Infant Acetaminophen Dose Table Checker](health-medical/medication-dosage-and-infusion.md) — 健康医学 › 用药、剂量与输液
+- [Inflation Calculator — U.S. CPI, Rate & Basket](finance-tax/currency-inflation-and-purchasing-power.md) — 金融财税 › 汇率、通胀与购买力
+- [Inflation Rate Calculator — CPI & Basket Index](finance-tax/currency-inflation-and-purchasing-power.md) — 金融财税 › 汇率、通胀与购买力
+- [Inherited IRA RMD Calculator 2026: 10-Year Rule](finance-tax/retirement-insurance-and-protection.md) — 金融财税 › 退休、保险与保障
+- [Integral Calculator: Definite Integral & Graph](math-education/statistics-probability-and-calculus.md) — 数学教育 › 统计、概率与微积分
+- [Interest Only Loan Calculator](finance-tax/loans-and-credit.md) — 金融财税 › 贷款与信用
+- [Interest Percentage Calculator](finance-tax/savings-and-interest.md) — 金融财税 › 储蓄与利息
+- [Investment Calculator — Returns, Contributions & Time](finance-tax/investing-and-assets.md) — 金融财税 › 投资与资产
+- [IP Subnet Calculator — IPv4, IPv6, CIDR & Netmask](science-technology/computing-networks-and-device-technology.md) — 科学技术 › 计算机、网络与设备技术
+- [IVF Due Date Calculator: Transfer Date & Timeline](health-medical/reproductive-health-pregnancy-and-cycles.md) — 健康医学 › 生殖健康、孕产与周期
+- [Kelvin to Celsius Calculator — K to °C](science-technology/temperature-weather-and-speed.md) — 科学技术 › 温度、气象与速度
+- [Kilograms to Pounds Calculator — kg to lb](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [Kilometers to Miles Calculator — km to mi](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [Land Loan Calculator](finance-tax/mortgages-and-real-estate.md) — 金融财税 › 房贷与房产
+- [LCM Calculator](math-education/arithmetic-fractions-and-numbers.md) — 数学教育 › 基础算术、分数与数值
+- [LDL Cholesterol Calculator](health-medical/clinical-labs-and-organ-function.md) — 健康医学 › 临床检验与器官功能
+- [Life Path Number Calculator — Separate-Component Method](games-recreation/astrology-numerology-and-charts.md) — 休闲娱乐 › 占星、命理与星盘
+- [Limit Calculator: One-Sided, Two-Sided & Infinity](math-education/statistics-probability-and-calculus.md) — 数学教育 › 统计、概率与微积分
+- [Loan-to-Income Calculator](finance-tax/loans-and-credit.md) — 金融财税 › 贷款与信用
+- [Log Calculator — Logarithms, Arguments & Bases](math-education/algebra-equations-and-matrices.md) — 数学教育 › 代数、方程与矩阵
+- [Long Division Calculator](math-education/arithmetic-fractions-and-numbers.md) — 数学教育 › 基础算术、分数与数值
+- [Lottery Jackpot Odds Calculator](games-recreation/sports-betting-and-games.md) — 休闲娱乐 › 体育、博彩与趣味游戏
+- [Macro Calculator: Calories, Percentages & Grams](health-medical/nutrition-calories-and-metabolism.md) — 健康医学 › 营养、热量与代谢
+- [Macroeconomics Calculator](math-education/courses-exams-and-grade-management.md) — 数学教育 › 课程、考试与成绩管理
+- [Mapping Calculator: Map One Number Range to Another](math-education/algebra-equations-and-matrices.md) — 数学教育 › 代数、方程与矩阵
+- [Marathon Split Calculator](health-medical/training-and-cardio.md) — 健康医学 › 运动训练与心肺
+- [Margin Calculator — Profit, Stock & FX Margin](business-consumer/pricing-platforms-and-digital-costs.md) — 商业消费 › 定价、平台与数字成本
+- [Markup Calculator — Price & Cost](business-consumer/pricing-platforms-and-digital-costs.md) — 商业消费 › 定价、平台与数字成本
+- [Maryland Paycheck Calculator: 2026 Tax & Net Pay](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [Massachusetts Paycheck Calculator: 2026 Tax & Net Pay](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [Matrix Calculator: Inverse, RREF, Determinant & More](math-education/algebra-equations-and-matrices.md) — 数学教育 › 代数、方程与矩阵
+- [Matrix Operations Calculator](math-education/algebra-equations-and-matrices.md) — 数学教育 › 代数、方程与矩阵
+- [Max Heart Rate Calculator](health-medical/training-and-cardio.md) — 健康医学 › 运动训练与心肺
+- [Mean Arterial Pressure (MAP) Calculator](health-medical/cardiovascular-risk-scores.md) — 健康医学 › 心血管与风险评分
+- [Megawatt Calculator — Convert MW to Watts](science-technology/power-and-electrical-engineering.md) — 科学技术 › 功率与电气工程
+- [Menstrual Cycle & Ovulation Calculator](health-medical/reproductive-health-pregnancy-and-cycles.md) — 健康医学 › 生殖健康、孕产与周期
+- [Meters to Centimeters Calculator — m to cm](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [Meters to Feet Calculator — m to ft](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [Michigan Paycheck Calculator: 2026 State, City & Federal](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [Mileage Calculator: MPG, km/L & L/100 km](science-technology/vehicles-and-mechanical-technology.md) — 科学技术 › 车辆与机械技术
+- [Military Retirement Calculator: 2026 High-3 and BRS](finance-tax/retirement-insurance-and-protection.md) — 金融财税 › 退休、保险与保障
+- [Milligrams to Micrograms Calculator — mg to mcg](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [Milliliters to Liters Calculator — mL to L](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [Millimeters to Centimeters Calculator — mm to cm](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [Millimeters to Inches Calculator — mm to in](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [Milliwatt Calculator — mW to W](science-technology/power-and-electrical-engineering.md) — 科学技术 › 功率与电气工程
+- [Minnesota Paycheck Calculator: 2026 Tax & Paid Leave](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [Mixed Number Calculator](math-education/arithmetic-fractions-and-numbers.md) — 数学教育 › 基础算术、分数与数值
+- [mL to Grams Calculator — Ingredients & Reverse Conversion](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [Molarity Calculator — Four-Way Solver](science-technology/chemistry-solutions-and-concentration.md) — 科学技术 › 化学、溶液与浓度
+- [Money Calculator: Count Bills and Coins](finance-tax/budgeting-and-affordability.md) — 金融财税 › 预算与负担能力
+- [Moon Sign Calculator | UTC, Longitude & Boundary Check](games-recreation/astrology-numerology-and-charts.md) — 休闲娱乐 › 占星、命理与星盘
+- [Motorcycle Loan Calculator](finance-tax/loans-and-credit.md) — 金融财税 › 贷款与信用
+- [Mulch Calculator](construction-home/aggregates-earthwork-and-landscaping.md) — 建筑家装 › 砂石、土方与景观
+- [New Jersey Paycheck Calculator: 2026 Tax & Net Pay](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [New York Paycheck Calculator: 2026 State & Federal](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [North Carolina Paycheck Calculator: 2026 Tax & Net Pay](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [Nut Calculator — Guitar String & Slot Spacing](science-technology/computing-networks-and-device-technology.md) — 科学技术 › 计算机、网络与设备技术
+- [Ohio Salary Calculator: Revised 2026 Tax & Net Pay](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [One Rep Max Calculator (1RM): Estimate Your Max](health-medical/training-and-cardio.md) — 健康医学 › 运动训练与心肺
+- [Options Profit Calculator](finance-tax/investing-and-assets.md) — 金融财税 › 投资与资产
+- [Oregon Paycheck Calculator: 2026 Tax & Net Pay](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [Ounce to Grams Calculator — oz to g](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [Ounces to Pounds Calculator — oz to lb](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [Overtime Calculator](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [Ovulation Date Calculator — Cycle Calendar & Fertile Window](health-medical/reproductive-health-pregnancy-and-cycles.md) — 健康医学 › 生殖健康、孕产与周期
+- [Pace Calculator — Pace, Time, Distance & Splits](health-medical/training-and-cardio.md) — 健康医学 › 运动训练与心肺
+- [Paint Calculator](construction-home/structures-roofing-and-interior-finishes.md) — 建筑家装 › 结构、屋面与室内饰面
+- [Parcel Shipping Cost Calculator](business-consumer/courier-postal-and-freight.md) — 商业消费 › 快递、邮政与货运
+- [Parlay Calculator — Odds, Payout, Profit & Probability](games-recreation/sports-betting-and-games.md) — 休闲娱乐 › 体育、博彩与趣味游戏
+- [Paver Calculator](construction-home/structures-roofing-and-interior-finishes.md) — 建筑家装 › 结构、屋面与室内饰面
+- [Payment Processing Fee Calculator](business-consumer/pricing-platforms-and-digital-costs.md) — 商业消费 › 定价、平台与数字成本
+- [PC Bottleneck Calculator — CPU & GPU Pairing](science-technology/computing-networks-and-device-technology.md) — 科学技术 › 计算机、网络与设备技术
+- [Pennsylvania Paycheck Calculator: 2026 PA Tax, UC & Local](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [PERC Calculator: Eight PE Rule-Out Criteria](health-medical/cardiovascular-risk-scores.md) — 健康医学 › 心血管与风险评分
+- [Percent of a Number Calculator](math-education/percentages-ratios-and-change.md) — 数学教育 › 百分比、比例与变化
+- [Percent Off Calculator — Reverse & Stack](business-consumer/discounts-tips-and-shopping-comparisons.md) — 商业消费 › 折扣、小费与消费比价
+- [Percentage Calculator — Percent, Change & Difference](math-education/percentages-ratios-and-change.md) — 数学教育 › 百分比、比例与变化
+- [Personal Loan Calculator](finance-tax/loans-and-credit.md) — 金融财税 › 贷款与信用
+- [Peso to USD Calculator: Latest MXN, PHP & ARS Rates](finance-tax/currency-inflation-and-purchasing-power.md) — 金融财税 › 汇率、通胀与购买力
+- [Pizza Size & Value Comparison Calculator — Two Round Orders](business-consumer/discounts-tips-and-shopping-comparisons.md) — 商业消费 › 折扣、小费与消费比价
+- [Plywood Calculator](construction-home/structures-roofing-and-interior-finishes.md) — 建筑家装 › 结构、屋面与室内饰面
+- [Poker Odds Calculator: Texas Hold'em Equity](games-recreation/sports-betting-and-games.md) — 休闲娱乐 › 体育、博彩与趣味游戏
+- [Pool Salt Calculator](science-technology/chemistry-solutions-and-concentration.md) — 科学技术 › 化学、溶液与浓度
+- [Pool Volume Calculator](construction-home/area-volume-and-general-construction.md) — 建筑家装 › 建筑面积、体积与通用工程量
+- [Pounds to Dollars Calculator: Latest GBP/USD Rate](finance-tax/currency-inflation-and-purchasing-power.md) — 金融财税 › 汇率、通胀与购买力
+- [Pregnancy Term Calculator: Due Date & Week Today](health-medical/reproductive-health-pregnancy-and-cycles.md) — 健康医学 › 生殖健康、孕产与周期
+- [Prorated Rent Calculator](finance-tax/budgeting-and-affordability.md) — 金融财税 › 预算与负担能力
+- [Protein Calculator — Age, Activity & Daily Grams](health-medical/nutrition-calories-and-metabolism.md) — 健康医学 › 营养、热量与代谢
+- [Puppy Weight Table Calculator — Exact Age Checkpoints](health-medical/animal-health-and-growth.md) — 健康医学 › 动物健康与成长
+- [Pythagorean Theorem Calculator](math-education/geometry-area-and-volume.md) — 数学教育 › 几何、面积与体积
+- [Quadratic Formula Calculator](math-education/algebra-equations-and-matrices.md) — 数学教育 › 代数、方程与矩阵
+- [Qualified Overtime Deduction Calculator](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [Retirement Calculator](finance-tax/retirement-insurance-and-protection.md) — 金融财税 › 退休、保险与保障
+- [Reverse Mortgage Payment & Balance Calculator](finance-tax/mortgages-and-real-estate.md) — 金融财税 › 房贷与房产
+- [Revised Cardiac Risk Index Calculator: Lee RCRI](health-medical/cardiovascular-risk-scores.md) — 健康医学 › 心血管与风险评分
+- [Roof Slope Calculator](construction-home/structures-roofing-and-interior-finishes.md) — 建筑家装 › 结构、屋面与室内饰面
+- [Roofing Calculator](construction-home/structures-roofing-and-interior-finishes.md) — 建筑家装 › 结构、屋面与室内饰面
+- [Roth IRA Calculator: Declared Growth Comparison](finance-tax/retirement-insurance-and-protection.md) — 金融财税 › 退休、保险与保障
+- [Rounding Calculator — Exact Decimals & 7 Rules](math-education/arithmetic-fractions-and-numbers.md) — 数学教育 › 基础算术、分数与数值
+- [RPG Combat Level Calculator](games-recreation/building-survival-and-combat-games.md) — 休闲娱乐 › 建造、生存与战斗游戏
+- [RV Loan Calculator](finance-tax/loans-and-credit.md) — 金融财税 › 贷款与信用
+- [RVU Calculator | CMS PFS Entered-Value Formula 2026](health-medical/clinical-services-and-workload.md) — 健康医学 › 临床服务与工作量
+- [Salary Calculator: Hourly, Monthly & Annual Pay](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [Sand Calculator](construction-home/aggregates-earthwork-and-landscaping.md) — 建筑家装 › 砂石、土方与景观
+- [SAT Reported-Score Superscore Calculator](math-education/courses-exams-and-grade-management.md) — 数学教育 › 课程、考试与成绩管理
+- [Saturn Return Calculator | Approximate Passage Windows](games-recreation/astrology-numerology-and-charts.md) — 休闲娱乐 › 占星、命理与星盘
+- [Saving Money Calculator: Savings, APY & Growth](finance-tax/savings-and-interest.md) — 金融财税 › 储蓄与利息
+- [Savings Bond Calculator: EE & I Inventory Audit](finance-tax/savings-and-interest.md) — 金融财税 › 储蓄与利息
+- [Scientific Calculator — Trig, Logs, Powers & Roots](math-education/scientific-graphing-and-device-calculators.md) — 数学教育 › 科学、图形与设备计算器
+- [Scientific Notation Calculator — Decimal, E & ×10](math-education/arithmetic-fractions-and-numbers.md) — 数学教育 › 基础算术、分数与数值
+- [Shipping Quote Audit Calculator](business-consumer/courier-postal-and-freight.md) — 商业消费 › 快递、邮政与货运
+- [Sig Fig Calculator](math-education/arithmetic-fractions-and-numbers.md) — 数学教育 › 基础算术、分数与数值
+- [Silver Calculator](finance-tax/investing-and-assets.md) — 金融财税 › 投资与资产
+- [Simple vs. Compound Interest Calculator](finance-tax/savings-and-interest.md) — 金融财税 › 储蓄与利息
+- [Simplify Calculator: Combine Polynomial Terms](math-education/algebra-equations-and-matrices.md) — 数学教育 › 代数、方程与矩阵
+- [Sleep Calculator: Bedtime & Wake-Up Planner](health-medical/lifestyle-and-exposure.md) — 健康医学 › 生活习惯与暴露检测
+- [Social Security Payment Calculator from Annual Income](finance-tax/retirement-insurance-and-protection.md) — 金融财税 › 退休、保险与保障
+- [Sod Calculator](construction-home/aggregates-earthwork-and-landscaping.md) — 建筑家装 › 砂石、土方与景观
+- [Solve Equation Calculator — Methods, Roots & Steps](math-education/algebra-equations-and-matrices.md) — 数学教育 › 代数、方程与矩阵
+- [Square Footage Calculator — 9 Shapes & Cost](construction-home/area-volume-and-general-construction.md) — 建筑家装 › 建筑面积、体积与通用工程量
+- [Square Root Calculator](math-education/arithmetic-fractions-and-numbers.md) — 数学教育 › 基础算术、分数与数值
+- [Stair Calculator](construction-home/structures-roofing-and-interior-finishes.md) — 建筑家装 › 结构、屋面与室内饰面
+- [Standard Deviation Calculator](math-education/statistics-probability-and-calculus.md) — 数学教育 › 统计、概率与微积分
+- [Statistics Calculator — Mean, Quartiles & Variation](math-education/statistics-probability-and-calculus.md) — 数学教育 › 统计、概率与微积分
+- [Steps to Calories Calculator With Measured Step Length](health-medical/nutrition-calories-and-metabolism.md) — 健康医学 › 营养、热量与代谢
+- [Steps to Miles Calculator: Distance, Km & Calories](science-technology/units-and-measurement.md) — 科学技术 › 通用度量与单位换算
+- [Stock Calculator](finance-tax/investing-and-assets.md) — 金融财税 › 投资与资产
+- [Stone Calculator](construction-home/aggregates-earthwork-and-landscaping.md) — 建筑家装 › 砂石、土方与景观
+- [System of Equations Calculator](math-education/algebra-equations-and-matrices.md) — 数学教育 › 代数、方程与矩阵
+- [TDEE Calculator](health-medical/nutrition-calories-and-metabolism.md) — 健康医学 › 营养、热量与代谢
+- [Tile Calculator](construction-home/structures-roofing-and-interior-finishes.md) — 建筑家装 › 结构、屋面与室内饰面
+- [Time and a Half Calculator](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [Time and Date Duration Calculator — Compare, Add or Subtract](date-time/dates-and-time.md) — 日期时间 › 日期与时间计算
+- [Time Calculator — Add & Subtract H:M:S](date-time/dates-and-time.md) — 日期时间 › 日期与时间计算
+- [Time Card Calculator — Weekly Hours & Printable Report](date-time/workdays-hours-and-timecards.md) — 日期时间 › 工作日、工时与考勤
+- [Time to Decimal Calculator](date-time/dates-and-time.md) — 日期时间 › 日期与时间计算
+- [Time to Money Calculator](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [Time Zone Calculator: Convert Local Date & Time](date-time/dates-and-time.md) — 日期时间 › 日期与时间计算
+- [Tip Calculator](business-consumer/discounts-tips-and-shopping-comparisons.md) — 商业消费 › 折扣、小费与消费比价
+- [Tire Dimensions Calculator](science-technology/vehicles-and-mechanical-technology.md) — 科学技术 › 车辆与机械技术
+- [Topsoil Calculator](construction-home/aggregates-earthwork-and-landscaping.md) — 建筑家装 › 砂石、土方与景观
+- [Trade-In Value Calculator](business-consumer/pricing-platforms-and-digital-costs.md) — 商业消费 › 定价、平台与数字成本
+- [Triangle Calculator](math-education/geometry-area-and-volume.md) — 数学教育 › 几何、面积与体积
+- [Type Damage Multiplier Calculator](games-recreation/building-survival-and-combat-games.md) — 休闲娱乐 › 建造、生存与战斗游戏
+- [USPS Shipping Calculator — 2026 Retail Postage Estimate](business-consumer/courier-postal-and-freight.md) — 商业消费 › 快递、邮政与货运
+- [UTC to EST Calculator: Fixed UTC−5 Conversion](date-time/dates-and-time.md) — 日期时间 › 日期与时间计算
+- [Vehicle Refinance Calculator: Payment & Savings](finance-tax/loans-and-credit.md) — 金融财税 › 贷款与信用
+- [Virginia Paycheck Calculator: 2026 State Tax & Net Pay](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [VO2 Max Calculator](health-medical/training-and-cardio.md) — 健康医学 › 运动训练与心肺
+- [Volt-Amps Calculator — Amps, VA, Watts & Three Phase](science-technology/power-and-electrical-engineering.md) — 科学技术 › 功率与电气工程
+- [Voltage Drop Calculator — AWG, Wire Size & Three Phase](science-technology/power-and-electrical-engineering.md) — 科学技术 › 功率与电气工程
+- [Volume Calculator — 11 Solids & Unit Conversion](math-education/arithmetic-fractions-and-numbers.md) — 数学教育 › 基础算术、分数与数值
+- [Volumetric Calculator](math-education/arithmetic-fractions-and-numbers.md) — 数学教育 › 基础算术、分数与数值
+- [Waist and Height Ratio Calculator](health-medical/weight-body-composition-and-growth.md) — 健康医学 › 体重、体脂与生长
+- [Wallpaper Calculator](construction-home/structures-roofing-and-interior-finishes.md) — 建筑家装 › 结构、屋面与室内饰面
+- [Washington Paycheck Calculator: 2026 Premiums & Net Pay](finance-tax/income-and-paychecks.md) — 金融财税 › 工资与薪酬
+- [Water Intake Calculator](health-medical/lifestyle-and-exposure.md) — 健康医学 › 生活习惯与暴露检测
+- [Weight Loss Percentage Calculator](health-medical/nutrition-calories-and-metabolism.md) — 健康医学 › 营养、热量与代谢
+- [Wheel Offset Calculator](science-technology/vehicles-and-mechanical-technology.md) — 科学技术 › 车辆与机械技术
+- [Wind Chill Factor Calculator — NWS Formula & Chart](science-technology/temperature-weather-and-speed.md) — 科学技术 › 温度、气象与速度
+- [Yen to US Dollar Calculator: Latest JPY/USD Rate](finance-tax/currency-inflation-and-purchasing-power.md) — 金融财税 › 汇率、通胀与购买力
+- [Z-Score Calculator — Probability & Two-Bound Area](math-education/statistics-probability-and-calculus.md) — 数学教育 › 统计、概率与微积分
+
+[返回总目录](README.md)
