@@ -1,18 +1,17 @@
-# Math & Statistics
+# 数学与统计
 
-Math and statistics articles explain a method that can be reproduced from stated inputs. They may cover arithmetic, algebra, geometry, probability, descriptive statistics, or a clearly bounded numerical procedure.
+数学与统计文章解释一个能够从已知输入复现的方法，范围可以是算术、代数、几何、概率、描述统计，或边界清楚的数值算法。目标不是只交付一个数字，而是让读者知道为什么这个方法适合当前问题。
 
-## Definition and data discipline
+## 定义与数据纪律
 
-Symbols are defined before use. An article must distinguish identities from approximations, samples from populations, counts from proportions, and raw observations from derived statistics. Dataset cleaning, exclusions, weights, rounding, and missing-value treatment are stated whenever they affect the answer.
+符号必须先定义再使用。文章要区分恒等式与近似、样本与总体、计数与比例、原始观测与派生统计量。凡是会影响结果的数据清洗、排除规则、权重、缺失值处理和舍入方式，都要公开。若存在不同教材或软件约定，也要指出采用哪一种。
 
-## Boundaries
+## 适用边界
 
-A computed value does not validate the assumptions behind it. A correlation is not causation; a normal-model probability does not prove the source data are normal; a numerical root is not automatically the only algebraic solution. Domain restrictions, undefined values, finite-precision effects, and alternative conventions must be explicit.
+算出一个值，并不能自动证明模型假设成立。相关不等于因果；正态模型给出的概率不能证明原数据正态；数值法找到一个根，也不代表它是唯一的代数解。定义域、不可定义点、浮点精度以及替代约定都必须说明。
 
-## Selection standard
+## 选文标准
 
-Choose methods with a stable definition, a hand-checkable example, and a useful interpretation. Avoid pages that merely return a number without showing the equation, dataset convention, or reason the method fits the question.
+优先选择定义稳定、能够手算核验，并且有实际解释价值的方法。仅返回结果、不展示公式、数据约定或适用理由的题目不收录。例题至少做一次独立复算，涉及随机性时还要说明种子、重复次数或误差范围。
 
-Published entries will use `YYYY-MM-DD — title — method — data/definition convention`. No article is linked here until its file exists and its example has been independently recalculated.
-
+后续条目格式：`YYYY-MM-DD — 标题 — 方法 — 数据/定义约定`。文章文件和例题复核都完成后，才会在本页出现链接。

@@ -1,46 +1,49 @@
 ---
-title: "Clear, specific article title"
+title: "清楚、具体的文章标题"
 date: YYYY-MM-DD
-description: "One-sentence description of the calculation and its boundary."
-category: "repository category slug"
+description: "用一句话说明计算问题与适用边界。"
+category: "仓库分类 slug"
+language: "zh-CN"
+ownership: "CalculatorQueen 第一方内容"
+source_status: "来源版本或访问日期"
+verification: "YYYY-MM-DD"
 ---
 
-# Article title
+# 文章标题
 
-State the real question and give the useful conclusion before introducing detail.
+先说清真实问题，并把最有用的结论放在细节之前。日更文章正文约 1,200–2,200 个汉字；数字反差必须可验证，段落保持简短，幽默适可而止。不得模仿或冒充任何具名作者。
 
-## Ownership and editorial disclosure
+## 归属与编辑披露
 
-State that this is a first-party CalculatorQueen publication. Disclose AI-assisted drafting or structural editing, and confirm that formulas, examples, sources, links, and rendering received editorial review.
+说明本文是 CalculatorQueen 第一方发布；披露 AI 是否参与起草或结构编辑，并确认公式、例题、来源、链接和渲染均已复核。若引用品牌或机构，只表示数据或规则来源，不暗示对方背书。
 
-## Definitions and assumptions
+## 定义与假设
 
-Define every variable, unit, date, rate, dataset, population, version, and rounding rule that changes the result.
+定义每个会改变答案的变量、单位、日期、比率、数据集、人群、版本和舍入规则。把用户输入、外部数据与固定定义分开。
 
-## Method
+## 方法
 
-Show the formula or decision procedure. Label exact relationships, estimates, policy rules, and user-entered assumptions differently.
+展示公式或决策流程，并明确区分精确关系、估算、政策规则、经验模型和用户自定假设。
 
-## Worked example
+## 手算例题
 
-Provide inputs, substitution, intermediate values without premature rounding, final result, and a reverse or independent check.
+列出输入、代入、中间值和最终结果；中间步骤不提前舍入。至少提供一次反向检查或独立复算。
 
-## Interpretation
+## 结果怎么理解
 
-Explain what the result means for the stated question.
+解释结果对当前问题意味着什么，以及它不能推出什么。
 
-## Boundaries and common errors
+## 边界与常见错误
 
-List excluded cases, undefined inputs, model limitations, version sensitivity, and frequent unit or direction mistakes.
+列出排除情形、不可定义输入、模型限制、版本敏感性，以及常见的单位、方向或数据错误。
 
-## Verification
+## 验证记录
 
-- Calculation independently recomputed: YYYY-MM-DD
-- Target page and exact deep link checked: YYYY-MM-DD
-- Markdown, images, alt text, and relative links rendered: YYYY-MM-DD
-- Secrets and personal data scan completed: YYYY-MM-DD
+- 计算已独立复算：YYYY-MM-DD
+- 目标页及精确深层链接已检查：YYYY-MM-DD
+- Markdown、图片、替代文本和相对链接已渲染检查：YYYY-MM-DD
+- 密钥、个人数据与本地路径扫描完成：YYYY-MM-DD
 
-## Sources
+## 参考资料
 
-List the primary standard, official document, government publication, or original research used. Record a publication/version date and access date where the source can change.
-
+列出采用的计量标准、官方文件、政府出版物或原始研究。可能变化的来源同时记录发布/版本日期与访问日期。

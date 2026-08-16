@@ -1,22 +1,21 @@
-# Unit Conversions
+# 单位换算
 
-Unit-conversion articles answer a narrow question: how can the same physical quantity be expressed in another unit without changing the underlying amount? Typical subjects include length, mass, volume, temperature, speed, and power.
+单位换算回答一个窄而重要的问题：同一个物理量怎样改用另一种单位表达，而不改变它本身的大小。常见对象包括长度、质量、体积、温度、速度和功率。换算看似只是乘除，真正的门槛是先确认两边描述的是同一种量。
 
-## Quantity and unit discipline
+## 量与单位纪律
 
-Every article must name the physical quantity first, then state the source unit, target unit, conversion direction, and factor. Exact SI-prefix relationships must be labeled exact; conventional or legally defined factors must cite the governing standard. Letter case, spacing, dimension, and compound units are part of the data—not decoration. Intermediate values remain unrounded until the reporting step.
+每篇文章先写明物理量，再列出源单位、目标单位、方向和换算因子。SI 词头形成的精确关系要标明“精确”；约定值或法定定义则引用对应标准。字母大小写、空格、量纲与复合单位都是输入的一部分，不是排版装饰。中间结果不提前舍入，只在最终展示阶段按精度规则处理。
 
-## Boundaries
+## 适用边界
 
-A direct factor is inappropriate when the units describe different quantities or require context. Mass-to-volume needs density; power-to-energy needs time; apparent power-to-real power needs power factor; dBm-to-watts is logarithmic rather than a prefix shift. Temperature offsets, calendar durations, and currency rates likewise need their own methods.
+如果两种单位描述的不是同一种量，直接乘固定因子就会出错。质量换体积需要密度，功率换能量需要时间，视在功率换有功功率需要功率因数；dBm 与瓦特之间是对数换算，不是移动 SI 词头。带偏移量的温标、长短不一的日历月份和随市场变化的汇率也各有独立方法。
 
-## Selection standard
+## 选文标准
 
-Publish only when the article can provide an authoritative relationship, a reversible hand calculation, a plausible real-world example, and at least one error check. Reject topics whose result depends on an unnamed material, market quote, jurisdiction, device state, or measurement convention.
+文章必须能给出权威关系、可逆的手算过程、合理场景和至少一种反向检查。若答案依赖未说明的材料、实时行情、辖区规则、设备状态或测量约定，则先补齐条件，不把猜测包装成精确换算。
 
-## Published notes
+## 已发布文章
 
-- 2026-08-16 — [mW, W, and dBm Are Not the Same](../articles/2026-08-16-mw-w-dbm-power-guide.md) — linear power units and the logarithmic dBm boundary.
+目录架构完成后再发布首批文章；目前暂无进入正式索引的条目。
 
-Future entries use `YYYY-MM-DD — title — source unit → target unit — verification basis`.
-
+后续条目格式：`YYYY-MM-DD — 标题 — 源单位 → 目标单位 — 验证依据`。

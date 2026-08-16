@@ -1,18 +1,17 @@
-# Finance & Business
+# 金融与商业
 
-Finance and business articles turn declared cash flows, rates, prices, or operating assumptions into auditable scenarios. They are calculation notes, not investment, tax, credit, legal, or accounting advice.
+金融与商业文章把明确的现金流、利率、价格或经营假设变成可审计的情景。它们帮助比较方案，不构成投资、税务、信贷、法律或会计建议，更不会把模型输出写成收益承诺。
 
-## Rate and money discipline
+## 金额与利率纪律
 
-Every amount needs a currency and timing basis. Rates must state whether they are nominal or effective, periodic or annual, simple or compounded, before or after fees, and entered or sourced. Cash-flow timing, compounding frequency, rounding to minor currency units, taxes, spreads, and fixed charges are shown rather than silently inferred.
+每笔金额都要标注币种和发生时间。利率要说明名义或实际、周期或年化、单利或复利、税费前后，以及是用户输入还是外部数据。现金流时点、复利频率、最小货币单位舍入、价差、税费和固定费用不能静默省略。
 
-## Boundaries
+## 适用边界
 
-A scenario is not a quote, forecast, eligibility decision, tax filing, or promise of return. Market prices and policy values require a source date. Jurisdiction-dependent rules require an official source and explicit scope. Sensitivity analysis should show how the result changes when uncertain assumptions move.
+情景计算不是报价、预测、资格认定、报税结果或回报保证。市场价格和政策参数必须注明数据日期；依赖司法辖区的规则要引用适用地区的官方来源。对不确定输入，应展示敏感性：假设小幅变化时，结果会移动多少。
 
-## Selection standard
+## 选文标准
 
-Publish topics that support a transparent ledger, reproducible arithmetic, and a practical comparison. Reject claims based on hidden future returns, missing fees, mixed rate periods, or an unidentified tax regime.
+只收录能够形成透明流水、复现算式并支持具体比较的题目。隐藏未来收益、漏掉费用、混用利率周期或说不清税制的模型不发布。若输入可能随时间更新，文章要保留取值日期，不能用“当前”替代证据。
 
-Published entries will use `YYYY-MM-DD — title — calculation basis — rate/data date`. An index link appears only after the article and its cited inputs are public and verified.
-
+后续条目格式：`YYYY-MM-DD — 标题 — 计算基准 — 利率/数据日期`。文章和引用输入公开且复核后，才加入索引。

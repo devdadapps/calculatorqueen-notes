@@ -1,18 +1,17 @@
-# Date & Time
+# 日期与时间
 
-Date and time articles handle durations, calendar arithmetic, schedules, business days, or time-zone conversions. The central challenge is deciding which clock and calendar rules apply before subtracting numbers.
+日期与时间文章处理时长、日历运算、排期、工作日和时区转换。真正的难点通常不是减法，而是在动手之前先确定使用哪一种时钟、日历和端点规则。
 
-## Calendar and zone discipline
+## 日历与时区纪律
 
-Inputs distinguish dates, local date-times, UTC instants, elapsed durations, and wall-clock times. The applicable calendar, time zone, daylight-saving rule, inclusive/exclusive endpoint convention, holiday set, and workweek definition are stated. Date-only arithmetic must not silently become a fixed number of seconds.
+输入要区分日期、本地日期时间、UTC 时刻、经过时长与墙上时钟时间。文章明确日历、时区、夏令时规则、起止日是否包含、节假日集合和工作周定义。只给日期的问题不能默认为固定秒数差。
 
-## Boundaries
+## 适用边界
 
-Months and years have variable lengths. Daylight-saving transitions can create missing or repeated local times. Historical and future zone rules can change, while business-day results depend on the selected jurisdiction and holiday source. Leap seconds and specialized astronomical time scales require separate treatment.
+月份和年份长度不固定；夏令时切换会制造不存在或重复的本地时间。历史与未来的时区规则可能调整，工作日又取决于地区和节假日来源。闰秒及天文时间尺度属于专门问题，需要另行处理。
 
-## Selection standard
+## 选文标准
 
-Choose questions with a precise timeline model and test cases around month ends, leap years, midnight, and zone transitions. Reject ambiguous prompts until their locale, zone, and endpoint rules are declared.
+收录时间线模型明确，并能覆盖月底、闰年、午夜和时区切换测试点的问题。地区、时区或端点规则不清的题目先补充条件，不能替读者做隐含选择。涉及未来政策时，来源日期也要保留。
 
-Published entries will use `YYYY-MM-DD — title — calendar/zone basis — endpoint convention`.
-
+后续条目格式：`YYYY-MM-DD — 标题 — 日历/时区基准 — 端点约定`。

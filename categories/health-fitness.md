@@ -1,18 +1,17 @@
-# Health & Fitness
+# 健康与体能
 
-Health and fitness articles explain bounded equations, reference intervals, training arithmetic, or measurement conversions. They are educational tools and do not diagnose, treat, prescribe, or replace professional care.
+健康与体能文章解释边界明确的方程、参考区间、训练算术或测量换算，仅作教育用途。它们不能诊断、治疗、开具方案，也不能替代医生、营养师、物理治疗师或合格教练的个体判断。
 
-## Population and measurement discipline
+## 人群与测量纪律
 
-Inputs must state unit, measurement method, population, age range, sex or other model variables when relevant, and the authority behind any coefficient or threshold. Measured values are separated from estimates. Reference equations retain their stated validation population and publication version.
+输入要标明单位、测量方法、适用人群、年龄范围，以及模型需要的性别或其他变量。每个系数与阈值都要有权威出处，实测值与估算值分开。引用参考方程时，保留其验证人群、版本和发布年份。
 
-## Boundaries
+## 适用边界
 
-A formula can be inappropriate outside its validated population or clinical context. Symptoms, medication, pregnancy, acute illness, pediatric development, and emergency decisions require qualified care. Measurement error and biological variability often matter more than extra decimal places; results should not be presented as certainty.
+公式在验证人群或临床场景之外可能不适用。症状、药物、妊娠、急性疾病、儿童发育和紧急决定需要专业照护。测量误差与个体波动往往比多显示两位小数更重要，因此结果不能写成确定诊断。
 
-## Selection standard
+## 选文标准
 
-Use primary clinical guidance, government publications, or original peer-reviewed equations. Publish only when scope, exclusions, warning signs, and interpretation can be explained clearly. High-impact outputs require conservative language and an explicit statement that the calculation is not medical advice.
+优先使用临床指南、政府出版物或原始同行评审方程。只有在适用范围、排除条件、警示信号与解释方式都能讲清楚时才发布。影响较大的输出使用保守措辞，并明确声明计算不构成医疗建议。
 
-Published entries will use `YYYY-MM-DD — title — population/method — source version`.
-
+后续条目格式：`YYYY-MM-DD — 标题 — 人群/方法 — 来源版本`。

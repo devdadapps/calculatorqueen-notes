@@ -1,18 +1,17 @@
-# Education & Scores
+# 教育与分数
 
-Education and score articles explain how stated points, weights, rubrics, or grade scales combine. Their purpose is planning and interpretation, not predicting an institution's unpublished decision.
+教育与分数文章解释公开的分值、权重、评分量表或等级怎样组合。用途是学习规划与结果理解，不预测学校或考试机构尚未公布的决定，也不把练习估算冒充官方成绩。
 
-## Rubric and source discipline
+## 评分规则与来源纪律
 
-Every score component needs a maximum, weight, and source year or version. Raw points, percentages, weighted composites, letter grades, percentiles, and scaled scores are kept distinct. Missing work, dropped items, extra credit, caps, and rounding policies are declared rather than guessed.
+每个组成部分都要有最高分、权重以及来源年份或版本。原始分、百分比、加权综合分、等级、百分位和量表分必须分开表达。缺交、丢弃最低分、额外加分、封顶与舍入规则要明确写出，不能靠猜。
 
-## Boundaries
+## 适用边界
 
-An unofficial practice composite is not an official exam score. Historical cut scores may illustrate a model but cannot promise a future result. School, instructor, testing agency, and jurisdiction rules can change; the applicable published rubric controls when it conflicts with a generic example.
+非官方练习综合分不等于正式考试分。历史分界线可以用于解释模型，却不能保证未来等级。学校、教师、考试机构和地区规则都可能变化；一旦官方发布的适用规则与通用示例冲突，应以官方规则为准。
 
-## Selection standard
+## 选文标准
 
-Publish only when the scoring workflow is public enough to cite and can be reproduced line by line. Include one manual calculation and label estimates or historical overlays prominently. Avoid fabricated cutoffs, hidden weighting assumptions, or language implying institutional endorsement.
+只有当评分流程有足够公开依据、能够逐步复算时才发布。文章至少给出一次手算，并把估算或历史映射醒目标注。虚构分界、隐藏权重，或暗示得到考试机构背书的内容不收录。
 
-Published entries will use `YYYY-MM-DD — title — assessment/rubric version — official or planning status`.
-
+后续条目格式：`YYYY-MM-DD — 标题 — 考试/量表版本 — 官方或规划用途`。

@@ -1,18 +1,17 @@
-# Games & Specialty
+# 游戏与专门计算
 
-Games and specialty articles cover rule-bound calculations that do not fit the general categories: game levels and trade values, music or craft spacing, hobby scoring, and other versioned community methods.
+这一类收录不适合一般分类、但有明确规则的计算：游戏等级与交易估值、音乐或手工间距、爱好评分，以及其他依赖版本或社区约定的方法。
 
-## Rule and data discipline
+## 规则与数据纪律
 
-The article identifies the game, system, guide, or entered dataset and records its version or access date. Official rules, community conventions, and user-declared values are labeled separately. Arithmetic must not turn a subjective trade preference or incomplete table into an objective market price.
+文章要写明游戏、系统、指南或输入数据集，并记录版本或访问日期。官方规则、社区惯例和用户自定数值分别标注。算术不能把主观交易偏好或残缺表格包装成客观市场价格。
 
-## Boundaries
+## 适用边界
 
-Live games, guides, and community economies change. A result can become stale after a patch, season, or table revision. Brand names identify compatibility only and do not imply affiliation or endorsement. Private account data, automation of gameplay, cheats, or access-control circumvention are outside scope.
+在线游戏、指南和社区经济会变化，补丁、赛季或数据表更新后，旧结果可能立即失效。品牌名称只用于说明兼容性，不代表隶属或背书。私人账户数据、自动代玩、作弊和绕过访问控制不在收录范围内。
 
-## Selection standard
+## 选文标准
 
-Publish when the rule set can be cited or fully declared, the example can be reproduced without a private account, and uncertainty is visible. Reject unexplained scraped values, purported official data with no source, or rankings designed to manufacture engagement.
+规则能够引用或完整声明、例题无需私人账户即可复现、且不确定性可见时才发布。来源不明的抓取值、无证据的“官方数据”或单纯制造互动的排名不收录。社区价格要写清样本和时间，而不是假装永远有效。
 
-Published entries will use `YYYY-MM-DD — title — game/system version — official, community, or user-declared basis`.
-
+后续条目格式：`YYYY-MM-DD — 标题 — 游戏/系统版本 — 官方、社区或用户自定依据`。

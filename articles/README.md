@@ -1,16 +1,15 @@
-# Article Index
+# 文章索引
 
-This index lists only articles that are already present in the repository. Entries are grouped by subject, then ordered by publication date. A moved or renamed article must update this index in the same change so readers never encounter an intentional dead link.
+这里仅列仓库中已经存在、能够匿名访问的文章。条目先按主题分类，再按发布日期排列；文章移动或改名时，必须在同一次提交中更新索引，避免给读者留下人为死链。
 
-## Unit conversions
+## 当前状态
 
-- 2026-08-16 — [mW, W, and dBm Are Not the Same: A Practical Device-Power Guide](2026-08-16-mw-w-dbm-power-guide.md)
+目录架构完成后再发布首批文章；目前暂无进入正式索引的文章。
 
-## Indexing format
+## 索引格式
 
-Future entries use:
+后续条目统一写成：
 
-`YYYY-MM-DD — Article title — primary quantity or method`
+`YYYY-MM-DD — 文章标题 — 主要量或方法`
 
-An entry is added only after its formulas, example arithmetic, sources, ownership disclosure, and rendered links have been checked.
-
+只有当公式、例题、来源、第一方归属披露、图片与链接渲染全部检查完成后，条目才会加入这里。尚未写完的选题保留在内部计划中，不提前制造公开死链。

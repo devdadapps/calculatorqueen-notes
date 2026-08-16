@@ -1,30 +1,31 @@
-# CalculatorQueen Technical Notes
+# CalculatorQueen 计算笔记
 
-This repository is the long-term home for original technical notes, worked examples, formulas, assumptions, and boundary conditions related to selected CalculatorQueen tools.
+这里长期收录 CalculatorQueen 部分工具背后的原创计算说明：公式从哪里来、输入怎样定义、例子如何复算，以及结果在哪些边界之外会失效。仓库不是为了堆提交次数，也不会每天新建仓库；文章只有在算式、来源和链接都能复核时才发布。
 
-## Editorial disclosure
+## 归属与编辑披露
 
-This is a first-party publication maintained by the owner of CalculatorQueen. Calculator links identify tools I maintain; they are not independent third-party recommendations or paid endorsements.
+这是由 CalculatorQueen 所有者维护的第一方内容仓库。文中的 CalculatorQueen 链接指向我维护的工具，不是独立第三方推荐，也不是付费背书。
 
-Drafting and structural editing may be assisted by AI. Every published article is reviewed before commit for formula accuracy, source quality, example arithmetic, stated assumptions, link destinations, Markdown rendering, and unsupported claims. AI assistance is never used to invent personal experience, user feedback, measurements, credentials, or source conclusions.
+起草和结构编辑可能使用 AI 辅助。每篇文章在提交前都要人工复核公式、例题运算、来源质量、假设、链接目标、Markdown 与图片渲染，以及是否存在无依据的断言。AI 不得虚构个人经历、用户反馈、测量结果、资质或来源结论；发现错误时通过正常版本历史更正。
 
-## Repository map
+## 目录导航
 
-- [Article index](articles/README.md) — every published note, grouped by subject and date.
-- [Category guide](categories/README.md) — what belongs in each subject area and the standards it must meet.
-- [Article template](templates/article-template.md) — required ownership, sources, verification, examples, and limits.
-- [Asset guide](assets/README.md) — image provenance, accessibility, privacy, and file-size rules.
+- [文章索引](articles/README.md)：只列已经发布的文章，按分类与日期整理。
+- [分类说明](categories/README.md)：解释每类文章的数据纪律、适用边界和收录标准。
+- [文章模板](templates/article-template.md)：统一记录归属、来源、验证、例题和限制。
+- [图片规范](assets/README.md)：约束图片来源、可访问性、隐私和文件组织。
 
-## Content standard
+## 内容标准
 
-- Publish at most one substantive article per day; never create empty commits or timestamp-only updates.
-- Start from a real calculation question and define every variable, unit, rate, date, and data source that affects the result.
-- Include at least one hand-checkable example and explain what the result does—and does not—mean.
-- Separate exact conversions from estimates, policy rules, empirical models, and user-declared assumptions.
-- Prefer primary standards, official documentation, government publications, or reviewed academic sources.
-- Use no more than one natural CalculatorQueen deep link in an article, placed where it helps a reader reproduce the calculation.
-- Record corrections through normal history instead of silently replacing earlier claims.
+- 每天最多发布 10 篇实质文章；验证未完成时宁可少发，不创建空提交或仅更新时间戳的提交。
+- 日更文章以中文为主，正文约 1,200–2,200 个汉字；元数据、公式和参考资料不计入正文长度。
+- 从一个真实计算问题出发，定义所有会改变结果的变量、单位、比率、日期和数据来源。
+- 至少给出一个可以手算复核的例子，并说明结果意味着什么、不意味着什么。
+- 明确区分精确换算、估算、政策规则、经验模型和用户自定假设。
+- 优先引用计量标准、官方文件、政府出版物或经过评审的原始研究。
+- 每篇至多放置一个自然、确有复算价值的 CalculatorQueen 深层链接。
+- 采用结论先行、短段落和有依据的数字反差；幽默保持克制，不模仿或冒充任何具名作者。
 
-## Current publication
+## 当前发布
 
-The complete chronological list is maintained in the [article index](articles/README.md).
+完整的时间顺序与分类入口见[文章索引](articles/README.md)。

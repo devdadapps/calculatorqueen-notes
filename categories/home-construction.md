@@ -1,18 +1,17 @@
-# Home & Construction
+# 家居与施工
 
-Home and construction articles estimate material quantity, geometry, waste, or project cost from declared dimensions and product assumptions. They support early planning; they do not replace drawings, structural review, permits, codes, or manufacturer instructions.
+家居与施工文章根据明确尺寸、形状与产品假设，估算材料数量、几何体量、损耗或项目费用。结果用于早期计划，不代替施工图、结构审查、许可、当地规范或制造商说明。
 
-## Measurement discipline
+## 测量与采购纪律
 
-All dimensions state their unit and whether they are inside, outside, nominal, or finished measurements. Shapes are decomposed before volumes or areas are added. Product coverage, density, package yield, joint width, layer depth, waste percentage, and rounding-to-purchasable-units rules are visible inputs.
+所有尺寸都标明单位，并说明是内尺寸、外尺寸、标称尺寸还是成品尺寸。复杂形状先拆分，再汇总面积或体积。产品覆盖率、密度、包装产出、缝宽、层厚、损耗比例，以及“如何向上取整到可购买包装”都作为可见输入。
 
-## Boundaries
+## 适用边界
 
-Real sites include openings, slopes, settlement, compaction, cuts, breakage, moisture, irregular geometry, and local code requirements. A geometric estimate cannot infer load capacity, soil suitability, reinforcement, fastening, drainage, labor productivity, or current local prices.
+真实现场会遇到开口、坡度、沉降、压实、切割、破损、含水率、不规则几何和地方规范。几何估算不能推断承载力、土壤适用性、钢筋、连接、排水、人工效率或当地即时价格。涉及安全的判断必须交给合格专业人员。
 
-## Selection standard
+## 选文标准
 
-Choose problems with clear geometry, a reproducible bill-of-quantity step, and a meaningful ordering boundary. Prefer examples that show both raw quantity and purchase rounding. Reject plans that hide a product-specific coverage assumption or suggest that arithmetic alone establishes safety.
+优先选择几何清楚、工程量步骤可复现，并有实际采购边界的问题。例题同时展示理论净用量与购买取整后的数量。隐藏产品覆盖假设，或暗示“算对面积就等于施工安全”的内容不发布。
 
-Published entries will use `YYYY-MM-DD — title — geometry/material — declared coverage or waste basis`.
-
+后续条目格式：`YYYY-MM-DD — 标题 — 几何/材料 — 覆盖率或损耗依据`。

@@ -1,24 +1,23 @@
-# Image and Diagram Standards
+# 图片与图表规范
 
-Assets exist to clarify a relationship that text alone would make harder to inspect. They are not decorative filler.
+图片只在它能让关系比纯文字更容易检查时使用，不作为装饰填充，也不上传与文章无关的截图。
 
-## File organization
+## 文件组织
 
-- Shared first-party marks: `assets/brand/`
-- Article-specific media: `assets/articles/YYYY/MM/article-slug/`
-- Use descriptive lowercase filenames with hyphens.
+- 共用第一方标识：`assets/brand/`
+- 文章专用媒体：`assets/articles/YYYY/MM/article-slug/`
+- 文件名采用含义明确的小写英文与连字符。
 
-## Quality and accessibility
+## 质量与可访问性
 
-- Prefer original SVG diagrams for formulas, flows, scales, and comparisons.
-- Give every embedded image descriptive alt text that communicates its instructional purpose.
-- Keep text readable on light and dark surrounding pages, preserve adequate contrast, and avoid relying on color alone.
-- Set a meaningful SVG `viewBox`; remove editor metadata, scripts, remote resources, and unnecessary precision.
-- Compress raster images while keeping labels and calculator results legible. Do not add multiple near-duplicate screenshots.
+- 公式、流程、比例和比较优先使用原创 SVG。
+- 每张嵌入图片都提供能传达教学目的的替代文本（alt text）。
+- 文字在浅色与深色外围页面上都应可读；保持足够对比度，不只依赖颜色传递含义。
+- SVG 必须有有效 `viewBox`，删除编辑器元数据、脚本、远程资源和没有意义的精度。
+- 位图在标签与结果仍可读的前提下压缩，不添加多张近乎重复的截图。
 
-## Provenance and privacy
+## 来源与隐私
 
-Only use original assets, clearly licensed material, or first-party CalculatorQueen marks. Record the source and license when an asset is not original. Never upload browser chrome, account menus, notifications, email, tokens, cookies, local paths, personal data, or unrelated desktop content.
+只使用原创资产、许可清楚的材料或 CalculatorQueen 第一方标识；非原创资产要记录来源与许可证。不得上传浏览器界面、账户菜单、通知、邮件、令牌、Cookie、本地路径、个人数据或无关桌面内容。
 
-Each article verifies that its referenced asset paths resolve anonymously and that the rendered image contains no undisclosed third-party claim or fabricated result.
-
+每篇文章都要验证资源路径可以匿名访问，并确认图中不存在未披露的第三方主张或虚构结果。
