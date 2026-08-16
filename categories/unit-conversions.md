@@ -17,5 +17,7 @@
 ## 已发布文章
 
 - 2026-08-16 — [一个字母，差十亿倍：mW、W 与 dBm 的换算边界](../articles/unit-conversions/2026/08/2026-08-16-mw-w-dbm-power-guide.md) — 线性功率单位与 dBm 的对数边界
+- 2026-08-16 — [同样是 10°C，为什么读数是 50°F，温差却只有 18°F](../articles/unit-conversions/2026/08/2026-08-16-celsius-reading-versus-interval.md) — 摄氏读数、华氏读数与温度间隔
+- 2026-08-16 — [0.25 mg 不是 0.25 mcg：用双向复核守住三位数量级](../articles/unit-conversions/2026/08/2026-08-16-mg-mcg-two-way-audit.md) — SI 词头、双向换算与高影响边界
 
 后续条目格式：`YYYY-MM-DD — 标题 — 源单位 → 目标单位 — 验证依据`。
