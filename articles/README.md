@@ -7,6 +7,7 @@
 - 2026-08-16 — [AP World 四项百分比为什么不能直接平均：66.25 与 69.50 的差别](education-scores/2026/08/2026-08-16-ap-world-why-equal-average-fails.md) — 分项权重与练习综合分
 - 2026-08-16 — [AP Lang 作文多 1 分，为什么略胜选择题多对 3 道](education-scores/2026/08/2026-08-16-ap-lang-one-essay-point.md) — 作文量表分与选择题的边际贡献
 - 2026-08-16 — [APUSH 明明拿了 40 个原始分，为什么页面同时出现 53.26 和 69.24](education-scores/2026/08/2026-08-16-apush-three-score-ledgers.md) — 原始、加权与规划三套账本
+- 2026-08-17 — [只改右边一个数，答案从无穷多个变成没有：方程组先分类](education-scores/2026/08/2026-08-17-one-constant-three-system-types.md) — 系数秩、增广秩与三种 RREF 收据
 
 ## 家居与施工
 
@@ -47,6 +48,7 @@
 `YYYY-MM-DD — 文章标题 — 主要量或方法`
 
 只有当公式、例题、来源、第一方归属披露、图片与链接渲染全部检查完成后，条目才会加入这里。尚未写完的选题保留在内部计划中，不提前制造公开死链。
+
 
 
 
