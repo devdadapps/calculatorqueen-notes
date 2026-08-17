@@ -14,6 +14,7 @@
 - 2026-08-16 — [0.62 立方码还是 0.93 短吨：买沙时两个答案为何都对](home-construction/2026/08/2026-08-16-sand-volume-versus-weight.md) — 体积、显式密度与采购质量
 - 2026-08-17 — [192 平方英尺为什么不是一个板材答案：甲板估算要先数 26 排](home-construction/2026/08/2026-08-17-deck-course-count-before-area.md) — 板排、侧缝、铺设方向与库存长度
 - 2026-08-17 — [木板没变，板尺为什么少了 18.33：先给尺寸贴上计价口径](home-construction/2026/08/2026-08-17-board-feet-tally-basis.md) — 标称 tally、成材实测与发票口径复核
+- 2026-08-17 — [卷尺只写“20 英尺宽”，还算不出泳池有多少水](home-construction/2026/08/2026-08-17-pool-width-needs-a-shape.md) — 矩形、圆形、平均深度与水线内尺寸
 
 ## 金融与商业
 
