@@ -23,6 +23,10 @@
 
 
 ## 已发布文章
+
+## 2026-08-20 补充
+- 2026-08-20 — [12.37 cm 变成 123.7 mm 后并没有更精确：切割清单的单位、公差与累计误差](../articles/unit-conversions/2026/08/2026-08-20-centimeters-tolerance-ledger.md) — cm → mm — BIPM SI 前缀、NIST SP 811 与公差账本
+- 2026-08-20 — [同样写 8.5 fl oz，为何会差 9.86 mL：先确认美国制还是英制](../articles/unit-conversions/2026/08/2026-08-20-fluid-ounce-standard-provenance.md) — US/Imperial fl oz → mL — NIST Handbook 44 与 SP 811
 - 2026-08-20 — [250 cm × 400 cm 的墙面为什么是 10 m²，不是 1,000 m²：换单位也要跟着平方](../articles/unit-conversions/2026/08/2026-08-20-wall-length-before-area.md) — cm → m 与 cm² → m² — BIPM SI 前缀、NIST SP 811 与双路线面积复核
 
 
