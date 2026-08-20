@@ -33,3 +33,5 @@
 
 后续条目格式：`YYYY-MM-DD — 标题 — 源单位 → 目标单位 — 验证依据`。
 
+
+- 2026-08-20 — [5 L 饮料分装成 18 杯 275 mL，为什么最后应剩 50 mL](../articles/unit-conversions/2026/08/2026-08-20-five-liters-eighteen-cups.md) — mL → L — BIPM SI 前缀、NIST SP 811 与体积守恒复核

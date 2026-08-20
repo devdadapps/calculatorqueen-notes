@@ -158,3 +158,5 @@
 ## 单位换算
 
 - 2026-08-20 — [七袋 2.3 oz 的零食，合计为什么不是 0.98 lb：先相加，再决定怎么舍入](unit-conversions/2026/08/2026-08-20-batch-ounces-before-pounds.md) — 常衡盎司、十进制磅与批量舍入边界
+
+- 2026-08-20 — [5 L 饮料分装成 18 杯 275 mL，为什么最后应剩 50 mL](unit-conversions/2026/08/2026-08-20-five-liters-eighteen-cups.md) — 同单位守恒、理论余量与数据交接
