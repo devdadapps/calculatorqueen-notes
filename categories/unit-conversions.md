@@ -23,6 +23,7 @@
 
 
 ## 已发布文章
+- 2026-08-20 — [250 cm × 400 cm 的墙面为什么是 10 m²，不是 1,000 m²：换单位也要跟着平方](../articles/unit-conversions/2026/08/2026-08-20-wall-length-before-area.md) — cm → m 与 cm² → m² — BIPM SI 前缀、NIST SP 811 与双路线面积复核
 
 
 - 2026-08-16 — [一个字母，差十亿倍：mW、W 与 dBm 的换算边界](../articles/unit-conversions/2026/08/2026-08-16-mw-w-dbm-power-guide.md) — 线性功率单位与 dBm 的对数边界
